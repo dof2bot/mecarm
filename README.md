@@ -1,6 +1,6 @@
 # mecarm
 
-**mecarm** is variant of parallel manipulator.
+**mecarm** is 5..6 dof robotic arm.
 
 [mecarm](https://en.wikipedia.org/wiki/Robotic_arm) is developed in C code: **100%**.
 
