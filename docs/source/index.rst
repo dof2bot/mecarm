@@ -1,10 +1,5 @@
-MECARM
+mecarm
 -------
-
-.. toctree::
- :hidden:
-
- self
 
 **mecarm** is 5..6 dof robotic arm.
 
@@ -13,6 +8,11 @@ MECARM
 The README is used to introduce the tool and provide instructions on
 how to install the tool, any machine dependencies it may have and any
 other information that should be provided before the tool is installed.
+
+.. toctree::
+   :hidden:
+
+   self
 
 |GitHub issues| |Documentation Status| |GitHub contributors|
 
@@ -25,26 +25,26 @@ other information that should be provided before the tool is installed.
 .. |Documentation Status| image:: https://readthedocs.org/projects/mecarm/badge/?version=latest
    :target: https://mecarm.readthedocs.io/projects/mecarm/en/latest/?badge=latest
 
-INSTALLATION
+Installation
 -------------
 
 Navigate to release `page`_ download and extract release archive.
 
 .. _page: https://github.com/dof2bot/mecarm/releases
 
-To install **mecarm** type the following:
+To install **mecarm** type the following
 
 .. code-block:: bash
 
    in progress
 
-DEPENDENCIES
+Dependencies
 -------------
 
-**mecarm** requires next modules and libraries:
+**mecarm** requires next modules and libraries
     in progress
 
-PROJECT STRUCTURE
+Project structure
 ------------------
 
 **mecarm** is based on POP.
@@ -53,7 +53,7 @@ PROJECT STRUCTURE
 
    in progress
 
-COPYRIGHT AND LICENCE
+Copyright and licence
 ----------------------
 
 |License: GPL v3| |License: Apache 2.0|
