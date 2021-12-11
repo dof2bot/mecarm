@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.githubusercontent.com/dof2bot/mecarm/master/docs/mecarm_logo.png" width="25%">
+
 # mecarm
 
 **mecarm** is 5..6 dof robotic arm.
@@ -22,44 +24,44 @@ other information that should be provided before the tool is installed.
 - [Copyright and Licence](#copyright-and-licence)
 <!-- END doctoc -->
 
-### INSTALLATION
+### Installation
 
 Navigate to release [page](https://github.com/dof2bot/mecarm/releases) download and extract release archive.
 
-To install **mecarm** follow next instructions:
+To install **mecarm** follow next instructions
 ```
 in progress
 ```
 
-### USAGE
+### Usage
 
 Planned in picking and packaging in micro-factories.
 ```
 in progress
 ```
 
-### DEPENDENCIES
+### Dependencies
 
-**mecarm** requires next modules and libraries:
+**mecarm** requires next modules and libraries
 ```
 in progress
 ```
 
-### PROJECT STRUCTURE
+### Project structure
 
 **mecarm** is based on POP.
 ```
 in progress
 ```
 
-### DOCS
+### Docs
 
 [![Documentation Status](https://readthedocs.org/projects/mecarm/badge/?version=latest)](https://mecarm.readthedocs.io/projects/mecarm/en/latest/?badge=latest)
 
-More documentation and info at:
+More documentation and info at
 * [https://mecarm.readthedocs.io/en/latest/](https://mecarm.readthedocs.io/en/latest/)
 
-### COPYRIGHT AND LICENCE
+### Copyright and licence
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
